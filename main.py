@@ -6,3 +6,4 @@ num = randint(1, 10)
 
 # print what was generated
 print(num)
+print("Salam")
